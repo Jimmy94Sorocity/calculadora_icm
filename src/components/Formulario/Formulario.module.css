@@ -1,0 +1,36 @@
+.header {
+    margin-top: 24px;
+    text-decoration: underline;
+}
+
+.results {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.measures {
+    margin-bottom: 16px;
+}
+
+.input {
+    margin-right: 16px;
+    padding: 8px;
+}
+
+.table {
+    display: flex;
+}
+
+.imc {
+    margin-right: 24px;
+    border: 1px solid #000;
+}
+
+.classification {
+    border: 1px solid #000;
+}
+
+.title {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
