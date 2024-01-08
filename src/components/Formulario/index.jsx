@@ -63,22 +63,22 @@ const Formulario = () => {
                         IMC
                     </li>
                     <li>
-                        abaixo de 18,5
+                        Abaixo de 18,5
                     </li>
                     <li>
-                        entre 18,6 e 24,9
+                        Entre 18,6 e 24,9
                     </li>
                     <li>
-                        entre 25 e 29,9
+                        Entre 25 e 29,9
                     </li>
                     <li>
-                        entre 30 e 34,9
+                        Entre 30 e 34,9
                     </li>
                     <li>
-                        entre 35 e 39,9
+                        Entre 35 e 39,9
                     </li>
                     <li>
-                        acima de 40
+                        Acima de 40
                     </li>
                 </ul>
                 <ul className={styles.classification}>
